@@ -1,6 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-Your text
+--**WELCOME TO GITHUB**
 Use the left arrow to go back!
